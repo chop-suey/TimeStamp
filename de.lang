@@ -1,0 +1,23 @@
+ASK_FOR_SUBJECT = Thema?
+ASK_FOR_CSV_FILENAME = Bitte Dateinamen eingeben.
+
+STARTTIME_LABEL = Startzeit:
+STOPTIME_LABEL = Endzeit:
+
+START_BUTTON = Einstempeln
+STOP_BUTTON = Ausstempeln
+LIST_BUTTON = Tabellenansicht
+EXIT_BUTTON = Schliessen
+EXPORT_BUTTON = Exportieren...
+EDIT_BUTTON = Bearbeiten
+
+TABLE_TITLE = Zeitübersicht
+
+TABLE_CH_DATE = Datum
+TABLE_CH_START = Startzeit
+TABLE_CH_STOP = Endzeit
+TABLE_CH_DIFF = Dauer
+TABLE_CH_SUBJECT = Betreff
+
+EDIT_TIMESTAMP_SAVE_BUTTON = Änderungen speichern
+EDIT_TIMESTAMP_TITLE = Timestamp bearbeiten
